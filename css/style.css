@@ -26,7 +26,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
 
 .brd {
     /* мой бордер */
-    border: 1px solid #F1F1F1;
+    border: 1px solid #aaa8a8;
 }
 
 summary {
